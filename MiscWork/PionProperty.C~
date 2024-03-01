@@ -1,0 +1,7 @@
+void PionProperty(){
+
+
+  TF1("f1","x * 1./sqrt(1.-x*x)",0.,1.);
+  f1->Draw();
+
+}

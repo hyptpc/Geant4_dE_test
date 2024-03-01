@@ -1,0 +1,5 @@
+/run/setCut 0.01
+#/run/beamOn 100000000
+#/run/beamOn 10000000 #for E05
+#/run/beamOn 100000 #for check
+/run/beamOn 10000 #for check
